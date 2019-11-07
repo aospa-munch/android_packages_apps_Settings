@@ -136,4 +136,8 @@
     <string name="dc_dimming_main_switch_title">Use DC Dimming</string>
     <string name="keywords_display_dc_dimming">dc dimming, anti, flicker, eye, strain</string>
 
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Advanced restart</string>
+    <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader in power menu</string>
+
 </resources>

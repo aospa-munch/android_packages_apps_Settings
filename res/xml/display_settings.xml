@@ -149,7 +149,7 @@
 
         <ListPreference
     	    android:key="min_refresh_rate"
-      	    android:title="@string/refresh_rate_title"
+            android:title="@string/min_refresh_rate_title"
             android:summary="@string/summary_placeholder"
             settings:controller="com.android.settings.display.MinRefreshRatePreferenceController" />
 
@@ -159,10 +159,10 @@
             android:summary="@string/touch_polling_summary"
             settings:controller="com.android.settings.display.TouchPollingPreferenceController" />
 
-        <SwitchPreference
+        <ListPreference
             android:key="peak_refresh_rate"
-            android:title="@string/peak_refresh_rate_title"
-            android:summary="@string/peak_refresh_rate_summary"
+            android:title="@string/max_refresh_rate_title"
+            android:summary="@string/summary_placeholder"
             settings:controller="com.android.settings.display.PeakRefreshRatePreferenceController"/>
 
         <SwitchPreference

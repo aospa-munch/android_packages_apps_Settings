@@ -241,4 +241,8 @@
     <string name="volume_separate_notification_title">Separated Ring and Notification</string>
     <string name="volume_separate_notification_summary">Allow controlling each stream individually</string>
 
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Hidden network</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Hide the hotspot name in the list of available Wi-Fi networks</string>
+
 </resources>
